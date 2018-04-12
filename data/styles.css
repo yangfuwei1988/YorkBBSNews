@@ -55,6 +55,15 @@
 }
 .flow_shape {
 }
+._连接线 {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .shape {
 }
 .box_1 {
